@@ -1,0 +1,5 @@
+// UTILISATION DU BINAIRE \\
+
+     ./navy pos1 pos2
+
+(pos1 et pos2 sont des maps sur lesquelles contiennent les bateaux)
